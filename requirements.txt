@@ -1,0 +1,6 @@
+strangeworks 
+strangeworks-qiskit
+strangeworks-braket
+python-dotenv
+matplotlib
+pylatexenc
